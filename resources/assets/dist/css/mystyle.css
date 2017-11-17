@@ -1,0 +1,15 @@
+body{
+	min-width:100vh;
+}
+.user-image{
+	    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.info-box-icon{
+	height: 95px;
+}
+.form-holder{
+	width: 5%;
+	text-align: center;
+}
